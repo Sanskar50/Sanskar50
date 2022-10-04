@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanskar Suri</h1>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="400"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
