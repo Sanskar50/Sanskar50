@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanskar Suri</h1>
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/dd2f88fc-c5b9-4054-b7ed-0ea71c4c5a9e" width="450" height="300"/> 
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/dd2f88fc-c5b9-4054-b7ed-0ea71c4c5a9e" width="400" height="300"/> 
 
 
 
