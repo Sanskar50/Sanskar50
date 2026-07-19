@@ -1,86 +1,77 @@
-<h1 align="center">Hi, I'm Sanskar Suri 👋</h1>
-<h3 align="center">Software Engineer · Platforms Team @ Needl.ai · IIIT Dharwad '25</h3>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24&text=Sanskar%20Suri&fontColor=FFFFFF&fontSize=65&fontAlign=50&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Data%20Platforms&descAlign=54&descAlignY=58&descSize=24&animation=twinkling"
+    width="90%"
+  />
+</p>
 
-<br/>
+<h3 align="center">Software Engineer, Platforms Team @ Needl.ai</h3>
 
-<img align="right" alt="Coding GIF" src="https://github.com/user-attachments/assets/dd2f88fc-c5b9-4054-b7ed-0ea71c4c5a9e" width="380" height="280"/>
+<p align="center">
+  <a href="https://linkedin.com/in/sanskar-suri-882069228" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/sanskar50/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+at+Needl.ai" alt="Typing SVG"/>
+</p>
 
 ### 👨‍💻 About Me
 
-- 🏢 **SWE @ [Needl.ai](https://needl.ai)** — Platforms Team, Bangalore
-- 🕷️ Building distributed crawlers, LLM scraping pipelines & ingestors at scale
-- 🔭 Interested in backend systems, agentic AI, and data infrastructure
-- 📊 Observability with **Prometheus** & **OpenTelemetry**
-- 🛡️ API guardrails, schema validations & fault-tolerant pipelines
-- 📫 Reach me on **[LinkedIn](https://linkedin.com/in/sanskar-suri-882069228)**
-- 💻 **[LeetCode](https://leetcode.com/sanskar50/)**
-
-<br clear="right"/>
+Backend engineer building distributed crawlers, LLM scraping pipelines, and high-throughput data ingestion systems at **Needl.ai**. Focused on API reliability, observability, and scaling data infra and Agentic AI systems.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Languages
+**Backend**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" height="42" alt="Flask" style="background:white;border-radius:6px;padding:2px"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" height="42" alt="Express" style="background:white;border-radius:6px;padding:2px"/>
 </p>
 
-#### Backend & Databases
+**Databases**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" alt="Node.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" alt="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>
 </p>
 
-#### DevOps & Tools
+**Infra &amp; Tools**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="42" height="42" alt="Prometheus"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**Pulse Bengaluru**](https://github.com/Sanskar50/Autopilots-PULSE-Bengaluru) | Python · FastAPI · Firebase · Gemini | Urban monitoring platform with real-time geo-tagged incident reporting, multi-source data aggregation, and AI agents for 8+ categories of urban alerts |
-| [**JARVIS**](https://github.com/Sanskar50/JARVIS) | Python · LangChain · FastAPI · Gemini · OAuth2 | Modular agentic AI orchestration framework with autonomous multi-step workflows, Gmail automation, web search, and resilient LLM routing with failover |
-| [**Vitals Monitoring System**](https://github.com/Sanskar50/Vitals-Monitoring-System) | Node.js · Firebase · UDP | Real-time patient vitals monitoring web app with Firebase Realtime Database and RoBERTa ML model integration |
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar50&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar50&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar50&theme=github-dark-blue&hide_border=true" height="150" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanskar50&amp;theme=dark&amp;hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🤝 Connect
-
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/sanskar-suri-882069228" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/sanskar50/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/>
   </a>
 </p>
